@@ -1,0 +1,17 @@
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.csproj.AssemblyReference.cache
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.AssemblyInfoInputs.cache
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.AssemblyInfo.cs
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.csproj.CoreCompileInputs.cache
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\bin\Debug\net6.0\IndianStateCensusAnalyzer.exe
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\bin\Debug\net6.0\IndianStateCensusAnalyzer.deps.json
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\bin\Debug\net6.0\IndianStateCensusAnalyzer.runtimeconfig.json
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\bin\Debug\net6.0\IndianStateCensusAnalyzer.dll
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\bin\Debug\net6.0\IndianStateCensusAnalyzer.pdb
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\bin\Debug\net6.0\nunit.framework.dll
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.csproj.CopyComplete
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.dll
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\refint\IndianStateCensusAnalyzer.dll
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.pdb
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\IndianStateCensusAnalyzer.genruntimeconfig.cache
+D:\repos137Batch\Day29PracticeProblem\Day29PracticeProblem\obj\Debug\net6.0\ref\IndianStateCensusAnalyzer.dll
